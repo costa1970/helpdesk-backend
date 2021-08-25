@@ -10,8 +10,6 @@ import com.costa.helpdesk.domain.Tecnico;
 import com.costa.helpdesk.domain.enums.Perfil;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
-import sun.awt.www.content.audio.x_aiff;
-
 
 public class TecnicoDTO implements Serializable {
 	private static final long serialVersionUID = 1L;
