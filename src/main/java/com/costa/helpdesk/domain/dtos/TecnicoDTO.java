@@ -27,6 +27,7 @@ public class TecnicoDTO implements Serializable {
 	//==============================================================
 	public TecnicoDTO() {
 		super();
+		addPerfil(Perfil.TECNICO);
 	}
 	//==============================================================
 
